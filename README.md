@@ -34,6 +34,7 @@ pip install sqlite3
 ### 4. Project Structure
 
 ice-cream-parlor/
+
 │
 ├── main.py              # Main application entry point
 
