@@ -35,7 +35,6 @@ pip install sqlite3
 
 ice-cream-parlor/
 
-│
 ├── main.py              # Main application entry point
 
 ├── models.py            # Data models for Flavor, Ingredient, Allergen, Cart
