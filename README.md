@@ -35,13 +35,13 @@ pip install sqlite3
 
 ice-cream-parlor/
 
-├── main.py              # Main application entry point
+├── main.py               # Main application entry point
 
-├── models.py            # Data models for Flavor, Ingredient, Allergen, Cart
+├── models.py              # Data models for Flavor, Ingredient, Allergen, Cart
 
-├── database.py          # Database connection and operations
+├── database.py            # Database connection and operations
 
-└── README.md            # This readme file
+└── README.md              # This readme file
 
 
 ### 5. Running the Application
